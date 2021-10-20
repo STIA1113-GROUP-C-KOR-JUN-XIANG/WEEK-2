@@ -1,0 +1,25 @@
+package life;
+
+public class dailylife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Wake up at 8.00am and going to brush my teeth and wash face");
+System.out.println("Having my breakfast with a cup of coffee");
+System.out.println("Drying my clothes if got clothes are washed");
+System.out.println("Open UUM OL and seeing the information update");
+System.out.println("Participate online classes");
+System.out.println("Eating my lunch");
+System.out.println("Taking a nap in the afternoon if no classes at around 3pm");
+System.out.println("Doing assignment given by lecturer");
+System.out.println("Playing games for a while for relax");
+System.out.println("See if got household work to do and done it");
+System.out.println("Bathing");
+System.out.println("Have dinner around 6pm");
+System.out.println("Do my programming work at 7pm");
+System.out.println("Rest for half hour at 8pm");
+System.out.println("Continue for programming until 10pm");
+System.out.println("Sleep at 12pm");
+	}
+
+}
